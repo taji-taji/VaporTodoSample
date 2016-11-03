@@ -1,0 +1,13 @@
+.DS_Store
+
+# ToDoAPI
+ToDoAPI/Packages
+ToDoAPI/.build
+ToDoAPI/xcuserdata
+ToDoAPI/*.xcodeproj
+ToDoAPI/Config/secrets
+ToDoAPI/node_modules
+
+# ToDoClient
+ToDoClient/Carthage/Build
+

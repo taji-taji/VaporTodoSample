@@ -1,0 +1,16 @@
+#extend("base")
+
+#export("head") {
+<title>Todos: #(todo.title)</title>
+
+<link href="https://fonts.googleapis.com/css?family=Quicksand:400,700,300" rel="stylesheet">
+<link rel="stylesheet" href="/styles/app.css">
+}
+
+#export("body") {
+<div>
+    <header><a href="/todos">← 一覧に戻る</a></header>
+    <h1>#(todo.title)</h1>
+    <div><small>created: #(todo.createdStr)</small></div>
+</div>
+}
