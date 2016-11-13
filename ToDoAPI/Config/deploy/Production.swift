@@ -1,4 +1,5 @@
 import Flock
+import Foundation
 
 class Production: Configuration {
     func configure() {
