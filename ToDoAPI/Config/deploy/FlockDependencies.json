@@ -1,0 +1,8 @@
+{
+   "dependencies" : [
+       {
+           "url" : "https://github.com/jakeheis/Flock",
+           "major": 0
+       }
+   ]
+}
