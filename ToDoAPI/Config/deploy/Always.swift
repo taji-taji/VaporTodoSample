@@ -5,7 +5,7 @@ class Always: Configuration {
 		// UPDATE THESE VALUES BEFORE USING FLOCK:
 		Config.projectName = "VaporTodoSample"
 		Config.executableName = "VaporTodoSample" // Same as Config.projectName unless your project is divided into modules
-		Config.repoURL = "https://github.com/taji-taji/VaporTodoSample"
+		Config.repoURL = "https://github.com/taji-taji/VaporTodoSample/ToDoAPI"
 		
 		// Optional config:
 		// Config.deployDirectory = "/var/www"
