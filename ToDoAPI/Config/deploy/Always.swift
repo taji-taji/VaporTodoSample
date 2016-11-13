@@ -3,9 +3,9 @@ import Flock
 class Always: Configuration {
     func configure() {
 		// UPDATE THESE VALUES BEFORE USING FLOCK:
-		Config.projectName = nil
-		Config.executableName = nil // Same as Config.projectName unless your project is divided into modules
-		Config.repoURL = nil
+		Config.projectName = "VaporTodoSample"
+		Config.executableName = "VaporTodoSample" // Same as Config.projectName unless your project is divided into modules
+		Config.repoURL = "https://github.com/taji-taji/VaporTodoSample"
 		
 		// Optional config:
 		// Config.deployDirectory = "/var/www"

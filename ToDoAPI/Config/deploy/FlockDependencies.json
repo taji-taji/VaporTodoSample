@@ -3,6 +3,10 @@
        {
            "url" : "https://github.com/jakeheis/Flock",
            "major": 0
+       },
+       {
+           "url" : "https://github.com/jakeheis/VaporFlock",
+           "version": "0.0.2"
        }
    ]
 }
